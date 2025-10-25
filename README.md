@@ -12,7 +12,7 @@ This repository demonstrates a machine learning workflow for predicting product 
     •Step 2: Performed EDA using scatter plots to explore the relationship between advertising channels (TV, Radio, Newspaper) and Sales.
     •Step 3: Split data into training and testing sets and trained a Linear Regression model to predict Sales.
     •Step 4: Evaluated model performance using Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² score.
-    vStep 5: Visualized model performance with a scatter plot of Actual vs Predicted Sales and highlighted the contribution of each advertising channel using a coefficient bar chart.
+    •Step 5: Visualized model performance with a scatter plot of Actual vs Predicted Sales and highlighted the contribution of each advertising channel using a coefficient bar chart.
 
 # 🎯 Outcome
 Developed a Linear Regression model achieving- Mean Squared Error (MSE): 3.17, Mean Absolute Error (MAE): 1.46, R² score of 0.90, showing strong predictive power. Visualizations provide actionable insights, indicating TV spend has the largest impact, followed by Radio, while Newspaper contributes minimally to Sales. This analysis guides data-driven advertising strategies to maximize product sales.
