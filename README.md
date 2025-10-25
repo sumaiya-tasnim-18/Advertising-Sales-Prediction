@@ -15,7 +15,7 @@ This repository demonstrates a machine learning workflow for predicting product 
     vStep 5: Visualized model performance with a scatter plot of Actual vs Predicted Sales and highlighted the contribution of each advertising channel using a coefficient bar chart.
 
 # 🎯 Outcome
-Developed a Linear Regression model achieving an R² score of 0.90, showing strong predictive power. Visualizations provide actionable insights, indicating TV spend has the largest impact, followed by Radio, while Newspaper contributes minimally to Sales. This analysis guides data-driven advertising strategies to maximize product sales.
+Developed a Linear Regression model achieving- Mean Squared Error (MSE): 3.17, Mean Absolute Error (MAE): 1.46, R² score of 0.90, showing strong predictive power. Visualizations provide actionable insights, indicating TV spend has the largest impact, followed by Radio, while Newspaper contributes minimally to Sales. This analysis guides data-driven advertising strategies to maximize product sales.
 
 # 📌Project Insights:
 <img width="1789" height="495" alt="image" src="https://github.com/user-attachments/assets/81afe266-438c-4f2c-bc4e-6f8ee8f6c66f" />
